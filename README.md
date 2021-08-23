@@ -48,8 +48,4 @@ Qualquer dúvida é só me procurar.
 
 # Referências
 
-- [Livro Django for Professionals](https://djangoforprofessionals.com/)
-- [Livro Django 3 By Example](https://www.packtpub.com/product/django-3-by-example-third-edition/9781838981952)
-- [Livro Two Scoops of Django](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
-- [Livro A Wedge of Django](https://www.feldroy.com/collections/two-scoops-press/products/a-wedge-of-django)
-- [Repostitório Cookiecutter Django](https://github.com/pydanny/cookiecutter-django)
+- Leia o arquivo "Leia.txt".

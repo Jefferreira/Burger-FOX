@@ -1,11 +1,5 @@
 # Tutorial e-commerce com Django
 
-# Importante
-
-- Vamos tocar esse projeto juntos? Dúvidas, sugestões e correções serão sempre bem vindas.
-
-- Cada branch desse repositório é uma parte do tutorial, assim é possível ver como o projeto foi evoluindo.
-
 # Como rodar o projeto
 
 - No terminal, execute o comando
